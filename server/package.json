@@ -2,7 +2,7 @@
   "name": "nm-backend-project",
   "version": "1.0.0",
   "type": "module",
-  "main": "src/server.js",
+  "main": "sever.js",
   "scripts": {
     "dev": "nodemon src/server.js"
   },
@@ -16,7 +16,6 @@
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongodb": "^7.1.0",
     "mongoose": "^9.2.1"
   },
   "devDependencies": {
